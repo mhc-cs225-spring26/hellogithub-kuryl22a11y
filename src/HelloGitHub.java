@@ -1,9 +1,8 @@
-
-public class HelloGitHub {
+public class HelloWorld {
 
     public static void main(String[] args) {
-        // TODO Write your code here
-
+        // TODO i didn't do anything, it worked originally
+        System.out.println("Hello, world");
     }
 
 }

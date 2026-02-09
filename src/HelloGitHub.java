@@ -1,8 +1,11 @@
 public class HelloWorld {
 
     public static void main(String[] args) {
-        // TODO i didn't do anything, it worked originally
+        //Hello world in english
         System.out.println("Hello, world");
+		//in italian
+		System.out.println("Ciao mondo");
+		//in polish
+		System.out.println("Witaj świecie");
     }
-
 }
